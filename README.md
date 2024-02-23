@@ -1,0 +1,1 @@
+The project attempts to address the anomalies associated with the use of a credit card by a thief.
